@@ -4,6 +4,8 @@ An interactive Tableau dashboard based on the World Happiness Report.
 
 This project explores global happiness through interactive visualizations, highlighting the relationship between happiness, GDP per capita, social support, geographic regions, and historical trends.
 
+https://public.tableau.com/app/profile/jon.ander.gorricho.herrero/viz/WorldHappinessReport2011-2025/Dashboard1?publish=yes
+
 ---
 
 ## 📊 Dashboard Features
@@ -48,7 +50,9 @@ Tableau-world-happiness/
 
 ## 📷 Dashboard Preview
 
-*(Dashboard screenshot will be added here.)*
+<img width="1537" height="776" alt="image" src="https://github.com/user-attachments/assets/69c12846-8828-41ab-92bf-073775865fcf" />
+
+
 
 ---
 
