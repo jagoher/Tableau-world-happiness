@@ -6,7 +6,7 @@ This project explores global happiness through interactive visualizations, highl
 
 🔗 Tableau Public:
 https://public.tableau.com/views/WorldHappinessReport2011-2025/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+https://public.tableau.com/views/WorldHappinessReport2011-2025/Dashboard1
 ---
 
 ## 📊 Dashboard Features
